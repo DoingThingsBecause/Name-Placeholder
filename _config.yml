@@ -1,7 +1,7 @@
 title: Cody's Portfolio
 description: Portfolio site
 url: "https://DoingthingBecause.github.io"  # no trailing slash
-baseurl: "/"                             # leading slash required
+baseurl: # leading slash required
 
 # Choose ONE of these (theme OR remote_theme):
 # theme: jekyll-theme-cayman
