@@ -16,7 +16,7 @@ Welcome! This is my portfolio for the **ATC Computer Science** pathway. It showc
 
 Navigate with the links below:
 
-- [About](/about/)
+- [About](/Name-Placeholder/about/)
 - [Standards & One‑Pagers](/standards/)
 - [Projects](/projects/)
 - [Help Desk KB](/kb/)
